@@ -9,7 +9,9 @@
   "author": "tijira-1999",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.7"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
