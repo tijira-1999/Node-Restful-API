@@ -4,7 +4,7 @@
   "description": "node authentication app with jwt",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "author": "tijira-1999",
   "license": "ISC",
