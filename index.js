@@ -28,7 +28,7 @@ mongoose.connect(
 
 
 
-    // middleware
+    // middleware  so that the fetched data from server is readable
 app.use(express.json());
 
 
