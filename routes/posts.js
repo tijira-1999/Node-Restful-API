@@ -10,7 +10,7 @@ router.get('/',verify, (req,res) =>{
     // });
 
     res.send(req.user);
-    User.findbyOne
+    // User.findbyOne({_id: req.user});
 });
 
 
